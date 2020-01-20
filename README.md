@@ -5,3 +5,5 @@ When these people buy items on Amazon they want to get the best deal possible an
 
 Generating key words via topic modelling. Key words are those imortant words that the various users have used that describe their experience with product.
 Summarizing the reviews for easy and faster reading
+
+https://nbviewer.jupyter.org/github/pragadeeshsureshbabu/Comments-Analysis/blob/master/Comments_Analysis.ipynb
